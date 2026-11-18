@@ -1,0 +1,20 @@
+# Sobe um Postgres 16 e carrega tudo automaticamente na primeira vez:
+#   docker compose up -d
+#   psql postgresql://postgres:postgres@localhost:5432/bariatrica
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres        # só para desenvolvimento local
+      POSTGRES_DB: bariatrica
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    working_dir: /carga
+    volumes:
+      - ./dados:/carga/dados:ro
+      - ./postgres:/carga/postgres:ro
+      - ./postgres/init.sh:/docker-entrypoint-initdb.d/init.sh:ro
+      - pgdata:/var/lib/postgresql/data
+volumes:
+  pgdata:

@@ -1,0 +1,1151 @@
+alerta_id,paciente_id,dia_pos,data,modulo,responsavel,severidade,regra,valor,status
+A00001,P0001,42,2026-09-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00002,P0001,84,2026-10-14,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,pendente
+A00003,P0004,126,2025-11-22,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00004,P0004,210,2026-02-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00005,P0004,210,2026-02-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00006,P0004,252,2026-03-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00007,P0004,252,2026-03-28,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00008,P0004,252,2026-03-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00009,P0004,365,2026-07-19,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00010,P0004,365,2026-07-19,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00011,P0006,84,2025-07-14,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00012,P0006,84,2025-07-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00013,P0006,210,2025-11-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00014,P0007,210,2026-08-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00015,P0007,252,2026-09-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00016,P0009,42,2025-06-02,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00017,P0009,168,2025-10-06,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00018,P0009,210,2025-11-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00019,P0009,365,2026-04-21,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),6.0,pendente
+A00020,P0011,84,2025-08-25,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00021,P0011,126,2025-10-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00022,P0011,210,2025-12-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00023,P0012,42,2025-05-15,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,711.0,resolvido
+A00024,P0012,84,2025-06-26,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00025,P0012,126,2025-08-07,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00026,P0012,210,2025-10-30,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00027,P0013,365,2026-06-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,em_analise
+A00028,P0014,126,2026-05-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00029,P0014,252,2026-09-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00030,P0015,210,2026-01-29,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00031,P0016,42,2025-10-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00032,P0016,42,2025-10-16,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00033,P0017,42,2026-01-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00034,P0017,42,2026-01-06,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00035,P0017,126,2026-03-31,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00036,P0017,168,2026-05-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00037,P0017,252,2026-08-04,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00038,P0017,252,2026-08-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00039,P0018,42,2025-04-17,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00040,P0018,84,2025-05-29,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00041,P0020,42,2026-01-18,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00042,P0020,168,2026-05-24,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,767.0,resolvido
+A00043,P0020,210,2026-07-05,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00044,P0020,252,2026-08-16,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00045,P0022,84,2025-08-24,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00046,P0022,365,2026-06-01,Emocional e comportamental,psicologo,media,Álcool >= 7 doses/semana (transferência de adicção),7.0,em_analise
+A00047,P0023,168,2026-04-15,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00048,P0024,42,2026-08-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00049,P0025,365,2026-06-01,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,pendente
+A00050,P0027,42,2026-01-04,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00051,P0028,42,2026-03-19,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,767.0,resolvido
+A00052,P0028,42,2026-03-19,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00053,P0028,84,2026-04-30,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00054,P0028,210,2026-09-03,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00055,P0030,42,2026-02-10,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00056,P0030,168,2026-06-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00057,P0030,210,2026-07-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00058,P0031,42,2025-10-19,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,981.0,resolvido
+A00059,P0031,84,2025-11-30,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00060,P0031,210,2026-04-05,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00061,P0031,365,2026-09-07,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00062,P0032,126,2026-07-07,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,977.0,resolvido
+A00063,P0032,168,2026-08-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00064,P0032,210,2026-09-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00065,P0033,42,2026-03-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00066,P0033,126,2026-05-29,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00067,P0033,126,2026-05-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00068,P0033,210,2026-08-21,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,825.0,resolvido
+A00069,P0033,252,2026-10-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00070,P0035,42,2026-05-04,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),9.0,resolvido
+A00071,P0035,126,2026-07-27,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,952.0,resolvido
+A00072,P0036,42,2026-07-28,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00073,P0036,42,2026-07-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,951.0,resolvido
+A00074,P0036,126,2026-10-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00075,P0037,210,2026-04-01,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00076,P0037,210,2026-04-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00077,P0038,42,2025-05-26,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00078,P0038,252,2025-12-22,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00079,P0038,365,2026-04-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00080,P0039,84,2026-02-16,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00081,P0039,210,2026-06-22,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00082,P0039,210,2026-06-22,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00083,P0039,252,2026-08-03,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00084,P0040,42,2026-01-23,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,764.0,resolvido
+A00085,P0042,84,2026-10-07,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,em_analise
+A00086,P0043,42,2026-06-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00087,P0043,84,2026-08-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,909.0,resolvido
+A00088,P0043,84,2026-08-08,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00089,P0044,42,2025-04-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00090,P0044,252,2025-11-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00091,P0044,365,2026-03-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00092,P0045,42,2025-04-29,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00093,P0045,84,2025-06-10,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00094,P0045,168,2025-09-02,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,976.0,resolvido
+A00095,P0045,168,2025-09-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00096,P0046,42,2026-07-24,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,834.0,resolvido
+A00097,P0047,42,2025-10-30,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00098,P0047,210,2026-04-16,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00099,P0047,210,2026-04-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00100,P0047,252,2026-05-28,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00101,P0047,365,2026-09-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,pendente
+A00102,P0047,365,2026-09-18,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),6.0,pendente
+A00103,P0048,168,2026-07-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00104,P0048,252,2026-09-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00105,P0049,126,2025-12-06,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,990.0,resolvido
+A00106,P0050,126,2026-01-08,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00107,P0050,252,2026-05-14,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00108,P0051,126,2025-09-29,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),8.0,resolvido
+A00109,P0051,210,2025-12-22,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00110,P0051,252,2026-02-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00111,P0052,42,2026-08-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00112,P0052,42,2026-08-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00113,P0052,84,2026-09-13,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,969.0,resolvido
+A00114,P0052,84,2026-09-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00115,P0053,42,2026-08-26,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00116,P0054,42,2026-03-11,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00117,P0054,126,2026-06-03,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00118,P0054,252,2026-10-07,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00119,P0056,126,2026-05-11,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00120,P0056,168,2026-06-22,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00121,P0056,210,2026-08-03,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00122,P0056,210,2026-08-03,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00123,P0056,252,2026-09-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00124,P0059,168,2026-08-19,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00125,P0060,126,2026-07-27,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,860.0,resolvido
+A00126,P0061,210,2026-07-15,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00127,P0061,252,2026-08-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00128,P0064,42,2026-09-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),11.0,resolvido
+A00129,P0065,84,2026-04-22,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,888.0,resolvido
+A00130,P0065,168,2026-07-15,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00131,P0066,168,2026-03-29,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00132,P0066,365,2026-10-12,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,em_analise
+A00133,P0066,365,2026-10-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00134,P0068,42,2026-07-19,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,998.0,resolvido
+A00135,P0068,84,2026-08-30,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00136,P0069,42,2025-08-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00137,P0069,210,2026-02-07,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00138,P0071,210,2025-12-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00139,P0071,365,2026-05-17,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00140,P0072,42,2025-08-16,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,844.0,resolvido
+A00141,P0072,126,2025-11-08,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00142,P0073,42,2026-03-10,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00143,P0073,168,2026-07-14,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00144,P0074,42,2025-12-30,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00145,P0074,84,2026-02-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00146,P0074,168,2026-05-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00147,P0077,42,2025-08-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00148,P0077,84,2025-10-08,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00149,P0078,42,2025-07-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,877.0,resolvido
+A00150,P0078,252,2026-02-23,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00151,P0078,365,2026-06-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00152,P0081,42,2025-09-09,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00153,P0081,84,2025-10-21,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00154,P0081,210,2026-02-24,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00155,P0081,252,2026-04-07,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00156,P0083,210,2025-11-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00157,P0084,42,2025-06-30,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00158,P0085,365,2026-08-25,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00159,P0089,126,2025-12-06,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),8.0,resolvido
+A00160,P0091,42,2025-04-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00161,P0092,365,2026-04-06,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,em_analise
+A00162,P0093,168,2026-02-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00163,P0093,168,2026-02-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00164,P0093,210,2026-04-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00165,P0096,42,2026-01-27,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00166,P0097,126,2026-02-22,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00167,P0097,168,2026-04-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00168,P0097,210,2026-05-17,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00169,P0098,252,2026-04-04,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00170,P0098,365,2026-07-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00171,P0099,84,2026-10-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00172,P0100,42,2026-04-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00173,P0100,84,2026-05-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00174,P0100,126,2026-07-10,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00175,P0100,126,2026-07-10,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00176,P0100,168,2026-08-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00177,P0101,42,2026-04-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,946.0,resolvido
+A00178,P0101,210,2026-10-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00179,P0102,42,2026-08-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00180,P0102,126,2026-11-08,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,em_analise
+A00181,P0103,42,2025-05-11,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00182,P0104,42,2026-04-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00183,P0106,84,2025-06-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00184,P0108,42,2026-06-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00185,P0108,84,2026-08-08,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00186,P0109,42,2026-07-30,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00187,P0109,126,2026-10-22,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,em_analise
+A00188,P0111,84,2026-03-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00189,P0112,126,2026-09-07,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,874.0,resolvido
+A00190,P0113,42,2026-08-03,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00191,P0116,252,2026-06-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00192,P0117,168,2026-07-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00193,P0118,84,2026-05-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00194,P0118,84,2026-05-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,844.0,resolvido
+A00195,P0118,126,2026-07-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00196,P0119,84,2026-09-29,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,919.0,resolvido
+A00197,P0120,84,2026-09-09,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00198,P0121,252,2026-11-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00199,P0122,84,2026-06-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00200,P0122,126,2026-07-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00201,P0123,42,2026-03-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00202,P0123,84,2026-05-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00203,P0123,84,2026-05-01,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00204,P0123,168,2026-07-24,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00205,P0123,210,2026-09-04,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00206,P0123,210,2026-09-04,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00207,P0126,42,2025-06-02,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00208,P0126,42,2025-06-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00209,P0126,365,2026-04-21,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,em_analise
+A00210,P0127,42,2025-04-23,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,973.0,resolvido
+A00211,P0127,168,2025-08-27,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00212,P0127,252,2025-11-19,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00213,P0127,365,2026-03-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00214,P0128,42,2026-06-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00215,P0129,42,2026-03-19,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00216,P0129,252,2026-10-15,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00217,P0130,84,2026-01-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00218,P0130,210,2026-05-15,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00219,P0130,252,2026-06-26,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00220,P0131,42,2026-06-11,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00221,P0132,168,2026-07-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00222,P0132,210,2026-08-23,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00223,P0132,252,2026-10-04,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00224,P0133,252,2025-12-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00225,P0134,84,2026-03-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00226,P0134,126,2026-04-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00227,P0134,210,2026-07-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00228,P0135,42,2026-03-12,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00229,P0136,126,2025-09-06,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00230,P0136,365,2026-05-03,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00231,P0138,42,2026-11-09,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,757.0,em_analise
+A00232,P0139,84,2025-08-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00233,P0139,210,2025-12-27,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00234,P0139,365,2026-05-31,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00235,P0140,42,2025-08-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00236,P0140,84,2025-09-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00237,P0140,252,2026-02-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00238,P0140,252,2026-02-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00239,P0141,42,2026-03-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00240,P0141,42,2026-03-02,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,806.0,resolvido
+A00241,P0142,42,2026-09-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00242,P0143,42,2025-10-06,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00243,P0143,42,2025-10-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00244,P0143,252,2026-05-04,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00245,P0144,84,2026-04-12,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00246,P0144,210,2026-08-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00247,P0145,42,2025-12-05,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00248,P0145,84,2026-01-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00249,P0145,252,2026-07-03,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00250,P0146,84,2026-09-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00251,P0147,42,2026-07-14,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00252,P0148,126,2026-05-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00253,P0149,126,2026-09-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00254,P0149,168,2026-10-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00255,P0150,84,2026-01-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00256,P0150,252,2026-06-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00257,P0151,42,2026-01-03,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00258,P0151,42,2026-01-03,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00259,P0152,126,2026-10-19,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,em_analise
+A00260,P0153,84,2026-03-11,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),8.0,resolvido
+A00261,P0153,252,2026-08-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00262,P0154,252,2026-01-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00263,P0154,365,2026-05-17,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00264,P0156,42,2026-05-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00265,P0156,42,2026-05-23,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,922.0,resolvido
+A00266,P0157,42,2026-02-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00267,P0157,84,2026-03-30,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00268,P0157,168,2026-06-22,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00269,P0158,42,2026-08-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00270,P0158,84,2026-10-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,em_analise
+A00271,P0160,42,2025-11-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00272,P0160,84,2025-12-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00273,P0160,365,2026-09-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00274,P0161,42,2026-11-05,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,em_analise
+A00275,P0161,42,2026-11-05,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,797.0,pendente
+A00276,P0162,210,2025-11-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00277,P0162,365,2026-04-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,em_analise
+A00278,P0163,42,2026-04-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00279,P0164,126,2025-09-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00280,P0164,210,2025-12-11,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00281,P0165,252,2025-12-14,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,925.0,resolvido
+A00282,P0165,252,2025-12-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00283,P0166,42,2026-02-26,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00284,P0166,42,2026-02-26,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,638.0,resolvido
+A00285,P0166,84,2026-04-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00286,P0166,210,2026-08-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00287,P0168,84,2026-03-23,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00288,P0169,210,2026-04-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00289,P0171,42,2026-03-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00290,P0171,84,2026-04-25,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00291,P0171,210,2026-08-29,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00292,P0171,252,2026-10-10,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,pendente
+A00293,P0172,84,2025-06-14,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00294,P0172,168,2025-09-06,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,924.0,resolvido
+A00295,P0173,168,2026-06-13,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,902.0,resolvido
+A00296,P0174,84,2026-05-24,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00297,P0174,168,2026-08-16,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),8.0,resolvido
+A00298,P0177,42,2026-10-20,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,996.0,em_analise
+A00299,P0178,42,2026-02-15,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,978.0,resolvido
+A00300,P0178,210,2026-08-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00301,P0180,84,2025-06-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00302,P0180,168,2025-09-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00303,P0180,252,2025-11-27,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00304,P0181,126,2025-07-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00305,P0181,210,2025-10-10,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00306,P0183,126,2026-05-23,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00307,P0183,168,2026-07-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00308,P0183,210,2026-08-15,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00309,P0184,42,2026-05-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00310,P0184,42,2026-05-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00311,P0184,168,2026-09-24,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00312,P0185,84,2026-03-17,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00313,P0185,168,2026-06-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00314,P0185,210,2026-07-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00315,P0185,252,2026-09-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00316,P0187,42,2026-04-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00317,P0187,84,2026-06-09,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,872.0,resolvido
+A00318,P0188,84,2026-05-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00319,P0188,126,2026-07-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00320,P0188,210,2026-10-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00321,P0188,252,2026-11-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00322,P0189,126,2026-03-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00323,P0189,126,2026-03-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00324,P0189,168,2026-05-09,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00325,P0189,210,2026-06-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00326,P0189,252,2026-08-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00327,P0190,42,2025-07-01,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00328,P0190,365,2026-05-20,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,pendente
+A00329,P0192,84,2026-05-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00330,P0192,168,2026-08-10,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00331,P0192,210,2026-09-21,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),6.0,resolvido
+A00332,P0193,42,2025-09-14,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,941.0,resolvido
+A00333,P0193,168,2026-01-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00334,P0193,210,2026-03-01,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,971.0,resolvido
+A00335,P0194,168,2025-10-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00336,P0194,252,2025-12-28,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00337,P0194,252,2025-12-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00338,P0196,168,2025-12-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00339,P0196,168,2025-12-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00340,P0196,210,2026-01-12,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00341,P0196,210,2026-01-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00342,P0196,252,2026-02-23,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00343,P0198,42,2026-03-07,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00344,P0198,168,2026-07-11,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00345,P0198,210,2026-08-22,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00346,P0199,42,2026-03-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00347,P0199,252,2026-10-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00348,P0200,84,2025-12-13,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00349,P0200,210,2026-04-18,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00350,P0200,252,2026-05-30,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00351,P0201,252,2026-10-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00352,P0202,42,2026-03-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00353,P0202,84,2026-05-04,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00354,P0202,252,2026-10-19,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00355,P0204,42,2026-04-20,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00356,P0204,126,2026-07-13,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00357,P0206,42,2026-01-06,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00358,P0206,84,2026-02-17,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00359,P0206,210,2026-06-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00360,P0206,252,2026-08-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00361,P0207,126,2025-07-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00362,P0207,252,2025-11-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00363,P0207,365,2026-03-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00364,P0208,42,2025-10-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00365,P0208,84,2025-11-23,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,914.0,resolvido
+A00366,P0208,210,2026-03-29,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00367,P0208,252,2026-05-10,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00368,P0209,252,2026-05-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00369,P0209,365,2026-08-31,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00370,P0210,168,2026-08-22,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00371,P0211,210,2026-04-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00372,P0212,42,2025-06-13,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00373,P0212,365,2026-05-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00374,P0213,42,2026-09-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00375,P0214,168,2026-06-03,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00376,P0216,210,2026-04-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00377,P0218,42,2026-08-15,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00378,P0219,42,2026-05-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00379,P0219,168,2026-09-27,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00380,P0219,210,2026-11-08,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00381,P0220,84,2025-08-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00382,P0220,210,2025-12-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00383,P0221,84,2026-06-02,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00384,P0222,126,2025-09-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00385,P0223,126,2025-08-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00386,P0223,126,2025-08-27,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00387,P0224,210,2025-12-23,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00388,P0224,210,2025-12-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00389,P0225,42,2026-04-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),9.0,resolvido
+A00390,P0225,168,2026-08-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00391,P0226,126,2025-10-29,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00392,P0226,252,2026-03-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00393,P0226,365,2026-06-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00394,P0227,84,2026-02-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00395,P0227,168,2026-05-11,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00396,P0229,84,2025-11-13,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00397,P0229,126,2025-12-25,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00398,P0230,126,2026-07-29,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00399,P0232,42,2025-06-11,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00400,P0232,84,2025-07-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00401,P0232,84,2025-07-23,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00402,P0232,126,2025-09-03,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00403,P0232,168,2025-10-15,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00404,P0234,84,2026-08-09,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00405,P0234,126,2026-09-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00406,P0234,168,2026-11-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00407,P0236,84,2025-12-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00408,P0236,168,2026-03-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00409,P0236,210,2026-04-23,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00410,P0237,42,2026-03-16,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,990.0,resolvido
+A00411,P0238,126,2026-09-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00412,P0240,42,2026-07-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00413,P0241,84,2025-11-26,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00414,P0241,210,2026-04-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00415,P0242,126,2025-11-25,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00416,P0242,168,2026-01-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00417,P0242,210,2026-02-17,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00418,P0242,365,2026-07-22,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,pendente
+A00419,P0243,42,2025-11-24,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00420,P0244,126,2025-09-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00421,P0244,365,2026-05-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00422,P0247,84,2026-03-26,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00423,P0248,126,2025-09-22,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00424,P0248,365,2026-05-19,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),6.0,em_analise
+A00425,P0249,210,2025-12-27,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00426,P0250,252,2026-10-31,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00427,P0251,126,2025-10-01,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00428,P0251,168,2025-11-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00429,P0252,42,2026-05-29,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00430,P0252,126,2026-08-21,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00431,P0253,84,2025-07-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00432,P0253,84,2025-07-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00433,P0253,126,2025-09-01,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00434,P0253,168,2025-10-13,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00435,P0253,252,2026-01-05,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00436,P0253,252,2026-01-05,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00437,P0253,252,2026-01-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00438,P0253,365,2026-04-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00439,P0254,42,2025-05-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00440,P0254,42,2025-05-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00441,P0254,168,2025-10-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00442,P0254,210,2025-11-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00443,P0254,365,2026-04-16,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,773.0,em_analise
+A00444,P0255,168,2025-09-07,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00445,P0255,252,2025-11-30,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00446,P0256,42,2026-02-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00447,P0256,84,2026-03-20,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00448,P0256,126,2026-05-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00449,P0257,42,2025-06-13,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00450,P0257,365,2026-05-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00451,P0259,42,2025-06-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00452,P0259,42,2025-06-18,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,677.0,resolvido
+A00453,P0259,168,2025-10-22,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00454,P0259,210,2025-12-03,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00455,P0259,252,2026-01-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00456,P0261,168,2026-10-26,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,920.0,em_analise
+A00457,P0263,42,2025-09-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,814.0,resolvido
+A00458,P0263,84,2025-10-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00459,P0263,126,2025-12-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00460,P0263,168,2026-01-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00461,P0263,365,2026-07-28,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00462,P0264,84,2026-08-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00463,P0266,42,2025-06-22,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,909.0,resolvido
+A00464,P0267,84,2026-05-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00465,P0267,126,2026-07-01,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,767.0,resolvido
+A00466,P0267,168,2026-08-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00467,P0268,84,2026-03-22,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00468,P0268,210,2026-07-26,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00469,P0268,210,2026-07-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00470,P0268,252,2026-09-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00471,P0269,42,2026-10-07,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,em_analise
+A00472,P0269,84,2026-11-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00473,P0271,84,2025-12-13,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00474,P0271,126,2026-01-24,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,978.0,resolvido
+A00475,P0272,210,2025-12-29,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,783.0,resolvido
+A00476,P0272,210,2025-12-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00477,P0272,365,2026-06-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00478,P0273,84,2026-05-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00479,P0273,210,2026-09-17,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00480,P0274,210,2026-02-19,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00481,P0274,252,2026-04-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00482,P0274,365,2026-07-24,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,pendente
+A00483,P0275,210,2026-03-22,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00484,P0276,42,2025-12-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00485,P0276,84,2026-01-31,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00486,P0276,210,2026-06-06,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,846.0,resolvido
+A00487,P0277,42,2026-03-20,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00488,P0278,168,2025-12-22,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00489,P0278,365,2026-07-07,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00490,P0280,42,2026-08-03,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,878.0,resolvido
+A00491,P0282,42,2025-10-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00492,P0282,168,2026-02-04,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,980.0,resolvido
+A00493,P0283,84,2026-03-27,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00494,P0283,168,2026-06-19,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00495,P0283,210,2026-07-31,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00496,P0283,252,2026-09-11,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00497,P0287,42,2026-07-19,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00498,P0287,84,2026-08-30,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00499,P0288,252,2025-12-06,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00500,P0288,365,2026-03-29,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,em_analise
+A00501,P0289,84,2025-12-19,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00502,P0289,168,2026-03-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00503,P0289,252,2026-06-05,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00504,P0289,365,2026-09-26,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,pendente
+A00505,P0289,365,2026-09-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00506,P0290,42,2026-08-04,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00507,P0291,126,2026-03-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00508,P0291,126,2026-03-01,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00509,P0291,210,2026-05-24,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,879.0,resolvido
+A00510,P0291,252,2026-07-05,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00511,P0297,210,2025-10-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00512,P0297,365,2026-03-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00513,P0300,42,2025-09-11,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00514,P0301,42,2026-06-11,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00515,P0302,126,2025-11-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00516,P0302,252,2026-03-31,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00517,P0302,252,2026-03-31,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00518,P0302,365,2026-07-22,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,em_analise
+A00519,P0303,42,2025-06-05,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00520,P0303,42,2025-06-05,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00521,P0303,168,2025-10-09,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00522,P0303,210,2025-11-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00523,P0304,42,2025-04-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,988.0,resolvido
+A00524,P0304,210,2025-10-13,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00525,P0305,42,2025-08-16,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00526,P0305,84,2025-09-27,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00527,P0305,210,2026-01-31,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00528,P0305,252,2026-03-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00529,P0306,84,2025-07-31,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00530,P0306,210,2025-12-04,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00531,P0307,84,2026-05-28,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00532,P0307,126,2026-07-09,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00533,P0307,126,2026-07-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00534,P0307,168,2026-08-20,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00535,P0307,210,2026-10-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00536,P0307,252,2026-11-12,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,em_analise
+A00537,P0309,84,2025-06-26,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00538,P0309,168,2025-09-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00539,P0310,42,2025-10-18,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00540,P0310,126,2026-01-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00541,P0310,252,2026-05-16,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00542,P0310,252,2026-05-16,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00543,P0311,210,2026-07-27,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00544,P0311,252,2026-09-07,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00545,P0313,84,2026-08-30,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00546,P0314,84,2026-06-10,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00547,P0314,168,2026-09-02,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00548,P0314,210,2026-10-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,em_analise
+A00549,P0315,210,2026-05-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00550,P0316,168,2026-01-08,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00551,P0316,365,2026-07-24,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,pendente
+A00552,P0317,126,2026-01-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00553,P0317,365,2026-09-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,pendente
+A00554,P0318,365,2026-08-13,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,pendente
+A00555,P0319,42,2025-05-30,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00556,P0319,252,2025-12-26,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00557,P0319,365,2026-04-18,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00558,P0320,126,2026-06-16,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00559,P0320,210,2026-09-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,861.0,resolvido
+A00560,P0320,210,2026-09-08,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00561,P0321,84,2025-07-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00562,P0321,126,2025-08-27,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00563,P0321,168,2025-10-08,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00564,P0321,168,2025-10-08,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00565,P0321,365,2026-04-23,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00566,P0322,42,2025-12-14,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00567,P0322,126,2026-03-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,593.0,resolvido
+A00568,P0322,168,2026-04-19,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00569,P0322,365,2026-11-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00570,P0323,210,2026-03-05,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00571,P0323,365,2026-08-07,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,pendente
+A00572,P0323,365,2026-08-07,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,em_analise
+A00573,P0324,42,2025-08-29,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00574,P0324,126,2025-11-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00575,P0324,126,2025-11-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00576,P0324,168,2026-01-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00577,P0324,210,2026-02-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00578,P0325,42,2025-04-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,964.0,resolvido
+A00579,P0326,42,2026-11-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,pendente
+A00580,P0327,84,2025-08-18,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,894.0,resolvido
+A00581,P0327,84,2025-08-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00582,P0327,126,2025-09-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00583,P0327,168,2025-11-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00584,P0327,210,2025-12-22,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00585,P0328,126,2025-08-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00586,P0328,210,2025-11-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00587,P0329,84,2025-11-27,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00588,P0329,84,2025-11-27,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,895.0,resolvido
+A00589,P0330,252,2026-10-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00590,P0333,42,2026-03-17,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00591,P0333,42,2026-03-17,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00592,P0333,168,2026-07-21,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00593,P0336,42,2025-12-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00594,P0336,84,2026-01-25,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,991.0,resolvido
+A00595,P0336,126,2026-03-08,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00596,P0337,42,2026-01-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00597,P0337,84,2026-03-04,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00598,P0337,252,2026-08-19,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00599,P0338,126,2026-07-11,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00600,P0340,168,2026-07-02,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00601,P0340,210,2026-08-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00602,P0341,210,2026-05-28,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,956.0,resolvido
+A00603,P0341,365,2026-10-30,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00604,P0342,42,2026-09-05,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00605,P0343,42,2025-06-21,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00606,P0343,210,2025-12-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00607,P0346,42,2025-11-01,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00608,P0346,126,2026-01-24,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00609,P0346,210,2026-04-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00610,P0346,365,2026-09-20,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,em_analise
+A00611,P0346,365,2026-09-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00612,P0347,42,2026-03-29,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00613,P0347,84,2026-05-10,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,839.0,resolvido
+A00614,P0347,210,2026-09-13,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00615,P0347,210,2026-09-13,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00616,P0348,126,2025-08-21,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00617,P0348,168,2025-10-02,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00618,P0348,168,2025-10-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00619,P0349,42,2025-04-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00620,P0349,84,2025-06-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00621,P0350,84,2025-12-01,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00622,P0350,126,2026-01-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00623,P0350,252,2026-05-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00624,P0350,365,2026-09-08,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00625,P0352,42,2025-05-04,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00626,P0352,252,2025-11-30,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00627,P0352,365,2026-03-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00628,P0353,126,2026-09-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00629,P0354,42,2025-07-23,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00630,P0354,252,2026-02-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00631,P0355,210,2025-12-18,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00632,P0355,252,2026-01-29,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00633,P0358,42,2025-07-28,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,resolvido
+A00634,P0358,252,2026-02-23,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00635,P0358,365,2026-06-16,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00636,P0359,42,2025-06-23,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00637,P0359,365,2026-05-12,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,996.0,pendente
+A00638,P0359,365,2026-05-12,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,em_analise
+A00639,P0361,126,2026-05-16,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,674.0,resolvido
+A00640,P0363,42,2025-10-22,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,resolvido
+A00641,P0363,210,2026-04-08,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),6.0,resolvido
+A00642,P0363,252,2026-05-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00643,P0364,168,2025-09-05,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00644,P0364,252,2025-11-28,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00645,P0365,126,2026-05-09,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00646,P0365,168,2026-06-20,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,955.0,resolvido
+A00647,P0366,126,2026-06-02,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),10.0,resolvido
+A00648,P0366,252,2026-10-06,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),7.0,em_analise
+A00649,P0368,42,2025-09-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00650,P0369,210,2026-01-30,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,840.0,resolvido
+A00651,P0370,42,2026-05-29,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),9.0,resolvido
+A00652,P0371,42,2026-03-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00653,P0371,42,2026-03-20,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,937.0,resolvido
+A00654,P0371,252,2026-10-16,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,pendente
+A00655,P0372,42,2026-07-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00656,P0373,84,2025-06-03,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),8.0,resolvido
+A00657,P0373,126,2025-07-15,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),9.0,resolvido
+A00658,P0373,126,2025-07-15,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00659,P0374,42,2026-10-02,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,902.0,resolvido
+A00660,P0374,84,2026-11-13,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,em_analise
+A00661,P0375,42,2026-05-14,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00662,P0375,42,2026-05-14,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00663,P0376,42,2026-01-20,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00664,P0376,210,2026-07-07,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00665,P0376,252,2026-08-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00666,P0378,42,2025-05-11,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00667,P0378,365,2026-03-30,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),4.0,pendente
+A00668,P0378,365,2026-03-30,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00669,P0379,42,2026-02-26,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00670,P0379,168,2026-07-02,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00671,P0381,42,2025-12-09,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00672,P0381,210,2026-05-26,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00673,P0382,84,2026-09-29,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00674,P0383,84,2025-08-26,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00675,P0383,84,2025-08-26,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00676,P0383,252,2026-02-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00677,P0384,168,2026-02-23,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,967.0,resolvido
+A00678,P0384,210,2026-04-06,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),5.0,resolvido
+A00679,P0384,210,2026-04-06,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00680,P0386,42,2025-06-01,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00681,P0386,126,2025-08-24,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00682,P0386,210,2025-11-16,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00683,P0386,365,2026-04-20,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,pendente
+A00684,P0386,365,2026-04-20,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00685,P0387,42,2026-05-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00686,P0387,210,2026-10-25,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,pendente
+A00687,P0388,84,2025-08-19,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,720.0,resolvido
+A00688,P0389,42,2026-06-24,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00689,P0389,126,2026-09-16,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),6.0,resolvido
+A00690,P0390,42,2025-11-12,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),6.0,resolvido
+A00691,P0391,84,2026-03-18,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00692,P0391,84,2026-03-18,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00693,P0391,168,2026-06-10,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00694,P0392,42,2025-12-08,Recuperação cirúrgica,enfermagem,alta,Dor EVA > 5 (critério BELLA),8.0,resolvido
+A00695,P0392,42,2025-12-08,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00696,P0392,42,2025-12-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,646.0,resolvido
+A00697,P0392,126,2026-03-02,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00698,P0392,252,2026-07-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00699,P0394,42,2025-09-08,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,941.0,resolvido
+A00700,P0394,126,2025-12-01,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00701,P0394,168,2026-01-12,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00702,P0394,252,2026-04-06,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,resolvido
+A00703,P0394,365,2026-07-28,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),4.0,pendente
+A00704,P0395,42,2026-09-09,Recuperação cirúrgica,enfermagem,media,Vômitos >= 3/semana (risco de desidratação/def. tiamina),3.0,resolvido
+A00705,P0395,84,2026-10-21,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,pendente
+A00706,P0396,126,2025-09-14,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00707,P0396,210,2025-12-07,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),5.0,resolvido
+A00708,P0396,210,2025-12-07,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00709,P0396,252,2026-01-18,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,resolvido
+A00710,P0396,365,2026-05-11,Emocional e comportamental,psicologo,alta,PHQ-2 >= 3 (rastreio positivo para depressão),3.0,em_analise
+A00711,P0398,84,2025-06-22,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00712,P0398,210,2025-10-26,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00713,P0399,84,2026-09-17,Emocional e comportamental,psicologo,baixa,Episódio de compulsão relatado,1.0,resolvido
+A00714,P0400,84,2026-09-26,Recuperação cirúrgica,enfermagem,alta,Vômitos >= 3/semana (risco de desidratação/def. tiamina),7.0,resolvido
+A00715,P0400,126,2026-11-07,Nutricional,nutricionista,media,Hidratação < 1000 mL/dia,656.0,em_analise
+A00716,P0014,252,2026-09-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00717,P0018,365,2026-03-06,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00718,P0022,84,2025-08-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00719,P0022,126,2025-10-05,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00720,P0032,252,2026-11-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00721,P0034,252,2026-11-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00722,P0045,210,2025-10-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00723,P0046,84,2026-09-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00724,P0047,168,2026-03-05,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00725,P0047,210,2026-04-16,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00726,P0047,252,2026-05-28,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00727,P0051,168,2025-11-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00728,P0051,210,2025-12-22,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00729,P0056,252,2026-09-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00730,P0057,252,2026-01-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00731,P0057,365,2026-05-17,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00732,P0059,84,2026-05-27,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00733,P0059,252,2026-11-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00734,P0060,126,2026-07-27,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00735,P0060,168,2026-09-07,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00736,P0060,210,2026-10-19,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00737,P0069,252,2026-03-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00738,P0071,126,2025-09-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00739,P0078,84,2025-09-08,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00740,P0078,126,2025-10-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00741,P0078,168,2025-12-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00742,P0078,365,2026-06-16,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00743,P0081,365,2026-07-29,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00744,P0085,365,2026-08-25,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00745,P0098,84,2025-10-18,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00746,P0103,84,2025-06-22,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00747,P0103,126,2025-08-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00748,P0104,210,2026-10-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00749,P0111,168,2026-05-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00750,P0113,84,2026-09-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00751,P0115,84,2026-08-16,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00752,P0115,126,2026-09-27,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00753,P0115,168,2026-11-08,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00754,P0118,168,2026-08-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00755,P0127,210,2025-10-08,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00756,P0129,126,2026-06-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00757,P0129,168,2026-07-23,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00758,P0129,210,2026-09-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00759,P0129,252,2026-10-15,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00760,P0130,168,2026-04-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00761,P0130,210,2026-05-15,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00762,P0136,84,2025-07-26,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00763,P0136,252,2026-01-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00764,P0142,84,2026-10-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00765,P0143,84,2025-11-17,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00766,P0143,126,2025-12-29,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00767,P0151,84,2026-02-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00768,P0156,84,2026-07-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00769,P0157,84,2026-03-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00770,P0157,126,2026-05-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00771,P0163,210,2026-09-19,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00772,P0164,168,2025-10-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00773,P0165,210,2025-11-02,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00774,P0178,252,2026-09-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00775,P0184,210,2026-11-05,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00776,P0185,210,2026-07-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00777,P0190,252,2026-01-27,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00778,P0190,365,2026-05-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00779,P0198,126,2026-05-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00780,P0198,168,2026-07-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00781,P0198,210,2026-08-22,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00782,P0198,252,2026-10-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00783,P0200,365,2026-09-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00784,P0202,210,2026-09-07,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00785,P0202,252,2026-10-19,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00786,P0217,84,2026-10-08,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00787,P0223,210,2025-11-19,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00788,P0231,210,2026-04-06,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00789,P0233,168,2026-01-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00790,P0234,168,2026-11-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00791,P0236,252,2026-06-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00792,P0241,126,2026-01-07,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00793,P0242,84,2025-10-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00794,P0243,168,2026-03-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00795,P0249,126,2025-10-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00796,P0252,126,2026-08-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00797,P0256,126,2026-05-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00798,P0256,168,2026-06-12,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00799,P0261,84,2026-08-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00800,P0263,168,2026-01-12,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00801,P0267,210,2026-09-23,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00802,P0276,84,2026-01-31,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00803,P0277,252,2026-10-16,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00804,P0280,84,2026-09-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00805,P0280,126,2026-10-26,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00806,P0291,210,2026-05-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00807,P0293,126,2025-09-28,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00808,P0293,252,2026-02-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00809,P0295,168,2026-08-23,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00810,P0300,126,2025-12-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00811,P0302,126,2025-11-25,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00812,P0302,168,2026-01-06,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00813,P0302,365,2026-07-22,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00814,P0303,84,2025-07-17,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00815,P0304,168,2025-09-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00816,P0304,365,2026-03-17,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00817,P0306,210,2025-12-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00818,P0306,252,2026-01-15,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00819,P0306,365,2026-05-08,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00820,P0307,210,2026-10-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00821,P0307,252,2026-11-12,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00822,P0312,210,2025-12-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00823,P0313,84,2026-08-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00824,P0314,168,2026-09-02,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00825,P0320,84,2026-05-05,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00826,P0323,84,2025-10-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00827,P0323,126,2025-12-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00828,P0323,168,2026-01-22,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00829,P0324,126,2025-11-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00830,P0324,252,2026-03-27,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00831,P0324,365,2026-07-18,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00832,P0328,210,2025-11-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00833,P0336,365,2026-11-02,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00834,P0340,168,2026-07-02,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00835,P0343,365,2026-05-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00836,P0347,84,2026-05-10,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00837,P0347,210,2026-09-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00838,P0347,252,2026-10-25,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00839,P0349,84,2025-06-01,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00840,P0349,126,2025-07-13,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00841,P0349,168,2025-08-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00842,P0349,365,2026-03-09,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00843,P0351,84,2026-08-23,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00844,P0351,126,2026-10-04,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00845,P0351,168,2026-11-15,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00846,P0355,84,2025-08-14,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00847,P0364,168,2025-09-05,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00848,P0369,84,2025-09-26,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00849,P0369,126,2025-11-07,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00850,P0369,168,2025-12-19,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00851,P0369,210,2026-01-30,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00852,P0373,252,2025-11-18,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00853,P0373,365,2026-03-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00854,P0378,126,2025-08-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00855,P0380,126,2026-04-07,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00856,P0381,84,2026-01-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00857,P0381,126,2026-03-03,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00858,P0381,365,2026-10-28,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,em_analise
+A00859,P0382,84,2026-09-29,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00860,P0386,365,2026-04-20,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00861,P0387,84,2026-06-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00862,P0388,168,2025-11-11,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00863,P0390,84,2025-12-24,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,resolvido
+A00864,P0395,84,2026-10-21,Nutricional,nutricionista,media,Sem suplementação diária em 2 questionários seguidos,0.0,pendente
+A00865,P0004,365,2026-07-19,Nutricional,nutrologo,media,Ferritina < 15 ng/mL,13.0,pendente
+A00866,P0006,180,2025-10-18,Metabólico,endocrinologista,media,HbA1c >= 7%,7.1,resolvido
+A00867,P0006,365,2026-04-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.4,pendente
+A00868,P0009,180,2025-10-18,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.3,resolvido
+A00869,P0011,180,2025-11-29,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,resolvido
+A00870,P0011,365,2026-06-02,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.2,pendente
+A00871,P0013,180,2025-12-15,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.8,resolvido
+A00872,P0013,180,2025-12-15,Nutricional,nutrologo,media,B12 < 200 pg/mL,156.0,resolvido
+A00873,P0015,365,2026-07-03,Nutricional,nutrologo,media,B12 < 200 pg/mL,137.0,pendente
+A00874,P0016,365,2026-09-04,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.6,pendente
+A00875,P0018,180,2025-09-02,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.7,resolvido
+A00876,P0018,180,2025-09-02,Metabólico,endocrinologista,media,HbA1c >= 7%,7.1,resolvido
+A00877,P0019,180,2026-07-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.5,resolvido
+A00878,P0021,180,2026-11-04,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.4,pendente
+A00879,P0025,180,2025-11-28,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.9,resolvido
+A00880,P0029,180,2026-02-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.1,resolvido
+A00881,P0029,180,2026-02-03,Nutricional,nutrologo,alta,Tiamina baixa,65.0,resolvido
+A00882,P0032,180,2026-08-30,Nutricional,nutrologo,alta,Tiamina baixa,50.0,resolvido
+A00883,P0037,180,2026-03-02,Metabólico,endocrinologista,media,HbA1c >= 7%,7.3,resolvido
+A00884,P0038,365,2026-04-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.3,em_analise
+A00885,P0043,180,2026-11-12,Metabólico,endocrinologista,media,HbA1c >= 7%,7.1,pendente
+A00886,P0044,365,2026-03-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.9,pendente
+A00887,P0045,180,2025-09-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.5,resolvido
+A00888,P0047,365,2026-09-18,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.0,pendente
+A00889,P0051,365,2026-05-26,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.8,em_analise
+A00890,P0051,365,2026-05-26,Nutricional,nutrologo,alta,Tiamina baixa,61.0,em_analise
+A00891,P0054,180,2026-07-27,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.4,resolvido
+A00892,P0057,365,2026-05-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.0,pendente
+A00893,P0060,180,2026-09-19,Nutricional,nutrologo,media,Ferritina < 15 ng/mL,7.0,resolvido
+A00894,P0063,180,2025-10-03,Nutricional,nutrologo,alta,Tiamina baixa,62.0,resolvido
+A00895,P0063,365,2026-04-06,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.8,pendente
+A00896,P0063,365,2026-04-06,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,pendente
+A00897,P0069,365,2026-07-12,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,8.3,em_analise
+A00898,P0072,365,2026-07-05,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,5.9,pendente
+A00899,P0072,365,2026-07-05,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.1,pendente
+A00900,P0077,180,2026-01-12,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.6,resolvido
+A00901,P0077,365,2026-07-16,Nutricional,nutrologo,media,B12 < 200 pg/mL,194.0,em_analise
+A00902,P0078,365,2026-06-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.2,em_analise
+A00903,P0079,365,2026-06-26,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.2,em_analise
+A00904,P0081,180,2026-01-25,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,6.0,resolvido
+A00905,P0081,180,2026-01-25,Nutricional,nutrologo,media,B12 < 200 pg/mL,147.0,resolvido
+A00906,P0088,180,2026-05-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.5,resolvido
+A00907,P0089,180,2026-01-29,Nutricional,nutrologo,media,B12 < 200 pg/mL,157.0,resolvido
+A00908,P0091,365,2026-03-12,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.5,pendente
+A00909,P0092,180,2025-10-03,Nutricional,nutrologo,media,B12 < 200 pg/mL,130.0,resolvido
+A00910,P0093,365,2026-09-03,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.2,em_analise
+A00911,P0094,180,2026-05-11,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.5,resolvido
+A00912,P0094,365,2026-11-12,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,pendente
+A00913,P0096,180,2026-06-14,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.4,resolvido
+A00914,P0097,180,2026-04-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.2,resolvido
+A00915,P0097,365,2026-10-19,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.8,pendente
+A00916,P0098,180,2026-01-22,Nutricional,nutrologo,media,B12 < 200 pg/mL,180.0,resolvido
+A00917,P0103,180,2025-09-26,Metabólico,endocrinologista,media,HbA1c >= 7%,7.8,resolvido
+A00918,P0103,365,2026-03-30,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.4,pendente
+A00919,P0104,180,2026-09-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.0,resolvido
+A00920,P0104,180,2026-09-13,Metabólico,endocrinologista,alta,Hipoglicemia,57.0,resolvido
+A00921,P0108,180,2026-11-12,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,em_analise
+A00922,P0111,180,2026-06-05,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.9,resolvido
+A00923,P0112,180,2026-10-31,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,7.7,pendente
+A00924,P0116,180,2026-04-09,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.3,resolvido
+A00925,P0117,180,2026-08-01,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.6,resolvido
+A00926,P0122,180,2026-09-20,Nutricional,nutrologo,media,B12 < 200 pg/mL,189.0,resolvido
+A00927,P0123,180,2026-08-05,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,resolvido
+A00928,P0126,180,2025-10-18,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.5,resolvido
+A00929,P0127,180,2025-09-08,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,4.0,resolvido
+A00930,P0127,365,2026-03-12,Nutricional,nutrologo,media,B12 < 200 pg/mL,198.0,em_analise
+A00931,P0127,365,2026-03-12,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,pendente
+A00932,P0128,180,2026-11-06,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.1,em_analise
+A00933,P0131,180,2026-10-27,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.0,pendente
+A00934,P0132,180,2026-07-24,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.4,resolvido
+A00935,P0133,180,2025-09-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.4,resolvido
+A00936,P0136,365,2026-05-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.8,em_analise
+A00937,P0140,365,2026-06-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.8,pendente
+A00938,P0143,180,2026-02-21,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,resolvido
+A00939,P0143,365,2026-08-25,Metabólico,endocrinologista,media,HbA1c >= 7%,7.3,em_analise
+A00940,P0145,365,2026-10-24,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.2,pendente
+A00941,P0150,365,2026-10-14,Metabólico,endocrinologista,alta,Hipoglicemia,56.0,em_analise
+A00942,P0153,180,2026-06-15,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.0,resolvido
+A00943,P0154,180,2025-11-13,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,resolvido
+A00944,P0154,365,2026-05-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.9,em_analise
+A00945,P0154,365,2026-05-17,Metabólico,endocrinologista,media,HbA1c >= 7%,7.1,pendente
+A00946,P0157,180,2026-07-04,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.7,resolvido
+A00947,P0160,180,2026-03-20,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,resolvido
+A00948,P0160,365,2026-09-21,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,em_analise
+A00949,P0162,180,2025-10-11,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.6,resolvido
+A00950,P0162,365,2026-04-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.1,pendente
+A00951,P0163,180,2026-08-20,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.2,resolvido
+A00952,P0164,365,2026-05-15,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.2,pendente
+A00953,P0165,180,2025-10-03,Nutricional,nutrologo,media,B12 < 200 pg/mL,90.0,resolvido
+A00954,P0165,365,2026-04-06,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.6,pendente
+A00955,P0170,180,2026-10-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.9,pendente
+A00956,P0172,180,2025-09-18,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.4,resolvido
+A00957,P0178,180,2026-07-03,Nutricional,nutrologo,alta,Tiamina baixa,62.0,resolvido
+A00958,P0187,180,2026-09-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.3,resolvido
+A00959,P0191,180,2026-11-13,Nutricional,nutrologo,media,B12 < 200 pg/mL,168.0,em_analise
+A00960,P0193,180,2026-01-30,Nutricional,nutrologo,alta,Tiamina baixa,58.0,resolvido
+A00961,P0193,180,2026-01-30,Metabólico,endocrinologista,media,HbA1c >= 7%,7.7,resolvido
+A00962,P0193,365,2026-08-03,Metabólico,endocrinologista,media,HbA1c >= 7%,7.7,em_analise
+A00963,P0196,180,2025-12-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.1,resolvido
+A00964,P0196,365,2026-06-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.4,em_analise
+A00965,P0201,180,2026-08-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.9,resolvido
+A00966,P0204,180,2026-09-05,Nutricional,nutrologo,media,B12 < 200 pg/mL,101.0,resolvido
+A00967,P0206,180,2026-05-24,Nutricional,nutrologo,media,Ferritina < 15 ng/mL,13.0,resolvido
+A00968,P0207,365,2026-03-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.6,em_analise
+A00969,P0207,365,2026-03-17,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,pendente
+A00970,P0208,180,2026-02-27,Metabólico,endocrinologista,media,HbA1c >= 7%,7.6,resolvido
+A00971,P0208,365,2026-08-31,Metabólico,endocrinologista,media,HbA1c >= 7%,7.1,em_analise
+A00972,P0210,180,2026-09-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.9,resolvido
+A00973,P0211,365,2026-09-07,Nutricional,nutrologo,media,B12 < 200 pg/mL,116.0,em_analise
+A00974,P0212,180,2025-10-29,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.0,resolvido
+A00975,P0215,180,2026-02-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.8,resolvido
+A00976,P0215,180,2026-02-14,Metabólico,endocrinologista,media,HbA1c >= 7%,7.5,resolvido
+A00977,P0222,180,2025-11-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.8,resolvido
+A00978,P0223,180,2025-10-20,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,9.0,resolvido
+A00979,P0224,365,2026-05-27,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.4,pendente
+A00980,P0224,365,2026-05-27,Nutricional,nutrologo,media,B12 < 200 pg/mL,90.0,em_analise
+A00981,P0224,365,2026-05-27,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.4,em_analise
+A00982,P0226,365,2026-06-25,Nutricional,nutrologo,alta,Tiamina baixa,65.0,pendente
+A00983,P0227,180,2026-05-23,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.1,resolvido
+A00984,P0231,180,2026-03-07,Metabólico,endocrinologista,media,HbA1c >= 7%,7.5,resolvido
+A00985,P0234,180,2026-11-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.1,em_analise
+A00986,P0234,180,2026-11-13,Metabólico,endocrinologista,media,HbA1c >= 7%,7.8,em_analise
+A00987,P0236,365,2026-09-25,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.0,pendente
+A00988,P0237,180,2026-08-01,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.3,resolvido
+A00989,P0241,180,2026-03-02,Metabólico,endocrinologista,media,HbA1c >= 7%,7.5,resolvido
+A00990,P0241,365,2026-09-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.5,em_analise
+A00991,P0242,180,2026-01-18,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,resolvido
+A00992,P0243,180,2026-04-11,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.2,resolvido
+A00993,P0243,365,2026-10-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.5,em_analise
+A00994,P0244,180,2025-11-09,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.4,resolvido
+A00995,P0244,365,2026-05-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,4.6,pendente
+A00996,P0244,365,2026-05-13,Nutricional,nutrologo,alta,Tiamina baixa,53.0,pendente
+A00997,P0245,180,2026-11-09,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.7,em_analise
+A00998,P0245,180,2026-11-09,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.7,pendente
+A00999,P0245,180,2026-11-09,Metabólico,endocrinologista,media,HbA1c >= 7%,7.5,em_analise
+A01000,P0247,180,2026-06-30,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.2,resolvido
+A01001,P0247,180,2026-06-30,Metabólico,endocrinologista,media,HbA1c >= 7%,7.9,resolvido
+A01002,P0248,180,2025-11-15,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.4,resolvido
+A01003,P0249,365,2026-05-31,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,4.0,pendente
+A01004,P0249,365,2026-05-31,Nutricional,nutrologo,alta,Tiamina baixa,55.0,pendente
+A01005,P0252,180,2026-10-14,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,pendente
+A01006,P0253,365,2026-04-28,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.6,pendente
+A01007,P0253,365,2026-04-28,Nutricional,nutrologo,media,B12 < 200 pg/mL,189.0,em_analise
+A01008,P0254,180,2025-10-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,7.6,resolvido
+A01009,P0254,365,2026-04-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.1,pendente
+A01010,P0256,180,2026-06-24,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.8,resolvido
+A01011,P0257,180,2025-10-29,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.4,resolvido
+A01012,P0257,365,2026-05-02,Nutricional,nutrologo,media,B12 < 200 pg/mL,151.0,em_analise
+A01013,P0259,365,2026-05-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.4,em_analise
+A01014,P0261,180,2026-11-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,12.0,em_analise
+A01015,P0263,180,2026-01-24,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,6.8,resolvido
+A01016,P0264,180,2026-11-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.5,pendente
+A01017,P0266,180,2025-11-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.3,resolvido
+A01018,P0266,365,2026-05-11,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.6,pendente
+A01019,P0271,180,2026-03-19,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,7.7,resolvido
+A01020,P0271,365,2026-09-20,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.7,pendente
+A01021,P0274,365,2026-07-24,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.45,em_analise
+A01022,P0275,365,2026-08-24,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.7,pendente
+A01023,P0276,180,2026-05-07,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.46,resolvido
+A01024,P0277,180,2026-08-05,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.7,resolvido
+A01025,P0278,365,2026-07-07,Nutricional,nutrologo,media,B12 < 200 pg/mL,186.0,em_analise
+A01026,P0282,180,2026-02-16,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,9.9,resolvido
+A01027,P0288,180,2025-09-25,Nutricional,nutrologo,media,Ferritina < 15 ng/mL,14.0,resolvido
+A01028,P0288,365,2026-03-29,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.8,pendente
+A01029,P0291,180,2026-04-24,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.3,resolvido
+A01030,P0293,365,2026-05-25,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.8,em_analise
+A01031,P0295,180,2026-09-04,Nutricional,nutrologo,alta,Tiamina baixa,58.0,resolvido
+A01032,P0300,180,2026-01-27,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,7.6,resolvido
+A01033,P0300,365,2026-07-31,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.6,em_analise
+A01034,P0302,180,2026-01-18,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.4,resolvido
+A01035,P0303,180,2025-10-21,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.9,resolvido
+A01036,P0304,180,2025-09-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.6,resolvido
+A01037,P0304,365,2026-03-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.5,em_analise
+A01038,P0305,180,2026-01-01,Metabólico,endocrinologista,media,HbA1c >= 7%,7.4,resolvido
+A01039,P0306,365,2026-05-08,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,17.7,pendente
+A01040,P0309,180,2025-09-30,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.2,resolvido
+A01041,P0309,180,2025-09-30,Nutricional,nutrologo,alta,Tiamina baixa,53.0,resolvido
+A01042,P0309,365,2026-04-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.2,em_analise
+A01043,P0310,365,2026-09-06,Metabólico,endocrinologista,alta,Hipoglicemia,51.0,pendente
+A01044,P0312,365,2026-05-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,10.9,em_analise
+A01045,P0315,180,2026-04-01,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.3,resolvido
+A01046,P0315,365,2026-10-03,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.3,pendente
+A01047,P0316,180,2026-01-20,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.1,resolvido
+A01048,P0317,180,2026-03-01,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.7,resolvido
+A01049,P0318,365,2026-08-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.6,pendente
+A01050,P0322,365,2026-11-02,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.41,pendente
+A01051,P0324,180,2026-01-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,13.4,resolvido
+A01052,P0324,365,2026-07-18,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.8,em_analise
+A01053,P0325,180,2025-09-13,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.36,resolvido
+A01054,P0327,365,2026-05-26,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,10.4,pendente
+A01055,P0327,365,2026-05-26,Metabólico,endocrinologista,media,HbA1c >= 7%,7.0,pendente
+A01056,P0328,365,2026-04-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.3,pendente
+A01057,P0329,180,2026-03-03,Nutricional,nutrologo,media,B12 < 200 pg/mL,180.0,resolvido
+A01058,P0329,365,2026-09-04,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.5,pendente
+A01059,P0333,180,2026-08-02,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.9,resolvido
+A01060,P0335,180,2026-11-06,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.6,pendente
+A01061,P0335,180,2026-11-06,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.0,pendente
+A01062,P0336,365,2026-11-02,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.18,em_analise
+A01063,P0338,180,2026-09-03,Nutricional,nutrologo,alta,Tiamina baixa,65.0,resolvido
+A01064,P0339,180,2026-08-10,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,14.2,resolvido
+A01065,P0340,180,2026-07-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,9.4,resolvido
+A01066,P0340,180,2026-07-14,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,resolvido
+A01067,P0341,365,2026-10-30,Nutricional,nutrologo,media,B12 < 200 pg/mL,128.0,em_analise
+A01068,P0341,365,2026-10-30,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.1,pendente
+A01069,P0349,180,2025-09-05,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,resolvido
+A01070,P0349,365,2026-03-09,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,pendente
+A01071,P0350,180,2026-03-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.1,resolvido
+A01072,P0350,365,2026-09-08,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.5,pendente
+A01073,P0358,180,2025-12-13,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.7,resolvido
+A01074,P0368,365,2026-08-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,19.0,em_analise
+A01075,P0369,180,2025-12-31,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.8,resolvido
+A01076,P0373,180,2025-09-07,Nutricional,nutrologo,media,B12 < 200 pg/mL,105.0,resolvido
+A01077,P0373,365,2026-03-11,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.6,pendente
+A01078,P0373,365,2026-03-11,Metabólico,endocrinologista,media,HbA1c >= 7%,7.3,em_analise
+A01079,P0375,180,2026-09-29,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,10.0,resolvido
+A01080,P0378,365,2026-03-30,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.6,pendente
+A01081,P0378,365,2026-03-30,Nutricional,nutrologo,media,B12 < 200 pg/mL,174.0,pendente
+A01082,P0378,365,2026-03-30,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",11.3,pendente
+A01083,P0379,180,2026-07-14,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.0,resolvido
+A01084,P0384,180,2026-03-07,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,15.6,resolvido
+A01085,P0386,180,2025-10-17,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,18.7,resolvido
+A01086,P0388,180,2025-11-23,Metabólico,endocrinologista,media,HbA1c >= 7%,7.2,resolvido
+A01087,P0389,180,2026-11-09,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,9.1,pendente
+A01088,P0391,180,2026-06-22,Nutricional,nutrologo,media,"Anemia (Hb < 11,5)",10.9,resolvido
+A01089,P0392,180,2026-04-25,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,11.4,resolvido
+A01090,P0392,180,2026-04-25,Nutricional,nutrologo,alta,"Albumina < 3,5 g/dL (desnutrição proteica)",3.49,resolvido
+A01091,P0392,365,2026-10-27,Metabólico,endocrinologista,media,HbA1c >= 7%,7.3,em_analise
+A01092,P0394,365,2026-07-28,Nutricional,nutrologo,media,B12 < 200 pg/mL,165.0,pendente
+A01093,P0396,365,2026-05-11,Nutricional,nutrologo,alta,Tiamina baixa,52.0,pendente
+A01094,P0397,365,2026-04-27,Nutricional,nutricionista,media,Vitamina D < 20 ng/mL,16.9,pendente
+A01095,P0006,0,2025-04-21,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01096,P0007,0,2026-01-19,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01097,P0012,0,2025-04-03,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01098,P0017,0,2025-11-25,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01099,P0027,0,2025-11-23,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01100,P0033,0,2026-01-23,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01101,P0053,0,2026-07-15,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01102,P0057,0,2025-05-17,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01103,P0058,0,2026-06-15,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01104,P0060,0,2026-03-23,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01105,P0078,0,2025-06-16,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01106,P0092,0,2025-04-06,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01107,P0095,0,2026-08-09,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01108,P0099,0,2026-07-17,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01109,P0105,0,2026-09-06,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01110,P0119,0,2026-07-07,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01111,P0123,0,2026-02-06,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01112,P0132,0,2026-01-25,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01113,P0138,0,2026-09-28,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01114,P0140,0,2025-06-21,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01115,P0154,0,2025-05-17,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01116,P0170,0,2026-04-19,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01117,P0175,0,2026-08-10,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01118,P0192,0,2026-02-23,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01119,P0212,0,2025-05-02,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01120,P0218,0,2026-07-04,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01121,P0220,0,2025-05-29,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01122,P0221,0,2026-03-10,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01123,P0223,0,2025-04-23,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01124,P0228,0,2026-07-09,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01125,P0230,0,2026-03-25,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01126,P0233,0,2025-07-26,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01127,P0236,0,2025-09-25,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01128,P0241,0,2025-09-03,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01129,P0246,0,2025-12-15,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01130,P0249,0,2025-05-31,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01131,P0254,0,2025-04-16,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01132,P0263,0,2025-07-28,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01133,P0270,0,2026-08-06,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01134,P0284,0,2025-11-26,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01135,P0296,0,2026-03-27,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01136,P0309,0,2025-04-03,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01137,P0311,0,2025-12-29,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01138,P0312,0,2025-05-07,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01139,P0329,0,2025-09-04,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01140,P0343,0,2025-05-10,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01141,P0345,0,2026-05-15,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01142,P0357,0,2026-07-17,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01143,P0365,0,2026-01-03,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01144,P0367,0,2026-06-14,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01145,P0376,0,2025-12-09,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01146,P0381,0,2025-10-28,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01147,P0387,0,2026-03-29,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01148,P0393,0,2026-07-16,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01149,P0396,0,2025-05-11,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido
+A01150,P0397,0,2025-04-27,Apoio social,assistente_social,media,Insegurança alimentar / barreira de acesso relatada no pré-op,1.0,resolvido

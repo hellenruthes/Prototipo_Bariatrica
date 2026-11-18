@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Protótipo bariátrica ---
+node_modules/
+__pycache__/
+.env
+dados_historico_treino/
