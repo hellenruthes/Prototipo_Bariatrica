@@ -14,7 +14,21 @@ Protótipo web de acompanhamento multiprofissional pós-cirurgia bariátrica: al
 | `dados/` | CSVs e JSON sintéticos | — |
 | `docs/` | [SPEC](docs/SPEC.md) e [dicionário de dados / LGPD](docs/DADOS.md) | — |
 
-## Começando
+## Como rodar a demo (só o front, sem banco nem API)
+
+Requer Node 20+. A demo lê `dados/base_sintetica.json` direto, então não precisa de Docker.
+
+```bash
+cd web
+npm install
+npm run dev      # abre em http://localhost:5173
+```
+
+Na tela inicial escolha o perfil (profissional, coordenador ou paciente). As ações ficam no navegador; o botão **Reiniciar demo** limpa tudo. Roteiro de demonstração em [web/README.md](web/README.md).
+
+Outros comandos: `npm run build` (confere tipos e gera o build) e `npm run preview` (serve o build).
+
+## Começando (banco de dados)
 
 Requer Docker e `make`.
 
