@@ -28,6 +28,16 @@ Na tela inicial escolha o perfil (profissional, coordenador ou paciente). As aç
 
 Outros comandos: `npm run build` (confere tipos e gera o build) e `npm run preview` (serve o build).
 
+**Erro `Cannot find native binding` (rolldown) ao rodar `npm run dev`?** É o bug do npm com dependências opcionais (o `node_modules` ficou sem o binário da sua plataforma). Dentro de `web/`:
+
+```bash
+rm -rf node_modules
+npm ci
+npm run dev
+```
+
+Se persistir, confira `npm config get omit` (se mostrar `optional`, use `npm install --include=optional`) e não copie o `node_modules` de outra máquina.
+
 ## Começando (banco de dados)
 
 Requer Docker e `make`.
