@@ -26,6 +26,8 @@ npm run dev      # abre em http://localhost:5173
 
 Na tela inicial escolha o perfil (profissional, coordenador ou paciente). As ações ficam no navegador; o botão **Reiniciar demo** limpa tudo. Roteiro de demonstração em [web/README.md](web/README.md).
 
+**Via Docker (sem Node):** `docker compose up -d --build web` e abra http://localhost:8080 (`WEB_PORT=3000` troca a porta). Faz o build do front e serve por nginx.
+
 Outros comandos: `npm run build` (confere tipos e gera o build) e `npm run preview` (serve o build).
 
 **Erro `Cannot find native binding` (rolldown) ao rodar `npm run dev`?** É o bug do npm com dependências opcionais (o `node_modules` ficou sem o binário da sua plataforma). Dentro de `web/`:
