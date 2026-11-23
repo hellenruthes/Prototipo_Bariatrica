@@ -1,0 +1,6 @@
+.git
+**/node_modules
+web/dist
+dados_historico_treino
+dados/identificadores_RESTRITO.csv
+.env

@@ -16,5 +16,11 @@ services:
       - ./postgres:/carga/postgres:ro
       - ./postgres/init.sh:/docker-entrypoint-initdb.d/init.sh:ro
       - pgdata:/var/lib/postgresql/data
+  web:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    ports:
+      - "${WEB_PORT:-8080}:80"
 volumes:
   pgdata:
